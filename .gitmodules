@@ -1,6 +1,6 @@
-[submodule "scipion-em-xmipp3"]
-	path = scipion-em-xmipp3
-	url = https://github.com/scipion-em/scipion-em-xmipp3
+[submodule "scipion-em-xmipp"]
+	path = scipion-em-xmipp
+	url = https://github.com/scipion-em/scipion-em-xmipp
 [submodule "scipion-em-eman2"]
 	path = scipion-em-eman2
 	url = https://github.com/scipion-em/scipion-em-eman2
