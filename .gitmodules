@@ -1,6 +1,3 @@
-[submodule "scipion-em-xmipp"]
-	path = scipion-em-xmipp
-	url = https://github.com/scipion-em/scipion-em-xmipp
 [submodule "scipion-em-eman2"]
 	path = scipion-em-eman2
 	url = https://github.com/scipion-em/scipion-em-eman2
@@ -28,3 +25,6 @@
 [submodule "scipion-em-imagic"]
 	path = scipion-em-imagic
 	url = https://github.com/scipion-em/scipion-em-imagic
+[submodule "scipion-em-xmipp"]
+	path = scipion-em-xmipp
+	url = https://github.com/I2PC/scipion-em-xmipp.git
