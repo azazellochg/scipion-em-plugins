@@ -28,3 +28,6 @@
 [submodule "scipion-em-xmipp"]
 	path = scipion-em-xmipp
 	url = https://github.com/I2PC/scipion-em-xmipp.git
+[submodule "scipion-em-simple"]
+	path = scipion-em-simple
+	url = https://github.com/scipion-em/scipion-em-simple
