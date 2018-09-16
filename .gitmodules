@@ -40,9 +40,6 @@
 [submodule "scipion-em-bsoft"]
 	path = scipion-em-bsoft
 	url = https://github.com/scipion-em/scipion-em-bsoft
-[submodule "scipion-em-grigoriefflab"]
-	path = scipion-em-grigoriefflab
-	url = https://github.com/scipion-em/scipion-em-grigoriefflab
 [submodule "scipion-em-resmap"]
 	path = scipion-em-resmap
 	url = https://github.com/scipion-em/scipion-em-resmap
@@ -64,3 +61,6 @@
 [submodule "scipion-em-localrec"]
 	path = scipion-em-localrec
 	url = https://github.com/scipion-em/scipion-em-localrec.git
+[submodule "scipion-em-grigoriefflab"]
+	path = scipion-em-grigoriefflab
+	url = https://github.com/scipion-em/scipion-em-grigoriefflab
