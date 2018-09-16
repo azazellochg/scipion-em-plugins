@@ -61,6 +61,6 @@
 [submodule "scipion-em-appion"]
 	path = scipion-em-appion
 	url = https://github.com/scipion-em/scipion-em-appion
-[submodule "scipion-em-opic"]
-	path = scipion-em-opic
-	url = https://github.com/scipion-em/scipion-em-opic
+[submodule "scipion-em-localrec"]
+	path = scipion-em-localrec
+	url = https://github.com/scipion-em/scipion-em-localrec.git
