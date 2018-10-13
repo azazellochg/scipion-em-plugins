@@ -49,9 +49,9 @@
 [submodule "scipion-em-powerfit"]
 	path = scipion-em-powerfit
 	url = https://github.com/scipion-em/scipion-em-powerfit
-[submodule "scipion-em-sachselab"]
-	path = scipion-em-sachselab
-	url = https://github.com/scipion-em/scipion-em-sachselab
+[submodule "scipion-em-loscale"]
+	path = scipion-em-locscale
+	url = https://github.com/scipion-em/scipion-em-locscale
 [submodule "scipion-em-atsas"]
 	path = scipion-em-atsas
 	url = https://github.com/scipion-em/scipion-em-atsas
@@ -64,3 +64,6 @@
 [submodule "scipion-em-grigoriefflab"]
 	path = scipion-em-grigoriefflab
 	url = https://github.com/scipion-em/scipion-em-grigoriefflab
+[submodule "scipion-em-locscale"]
+	path = scipion-em-locscale
+	url = https://github.com/scipion-em/scipion-em-locscale
