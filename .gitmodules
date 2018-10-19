@@ -40,21 +40,12 @@
 [submodule "scipion-em-bsoft"]
 	path = scipion-em-bsoft
 	url = https://github.com/scipion-em/scipion-em-bsoft
-[submodule "scipion-em-resmap"]
-	path = scipion-em-resmap
-	url = https://github.com/scipion-em/scipion-em-resmap
 [submodule "scipion-em-chimera"]
 	path = scipion-em-chimera
 	url = https://github.com/scipion-em/scipion-em-chimera
-[submodule "scipion-em-powerfit"]
-	path = scipion-em-powerfit
-	url = https://github.com/scipion-em/scipion-em-powerfit
 [submodule "scipion-em-loscale"]
 	path = scipion-em-locscale
 	url = https://github.com/scipion-em/scipion-em-locscale
-[submodule "scipion-em-atsas"]
-	path = scipion-em-atsas
-	url = https://github.com/scipion-em/scipion-em-atsas
 [submodule "scipion-em-appion"]
 	path = scipion-em-appion
 	url = https://github.com/scipion-em/scipion-em-appion
@@ -67,3 +58,18 @@
 [submodule "scipion-em-locscale"]
 	path = scipion-em-locscale
 	url = https://github.com/scipion-em/scipion-em-locscale
+[submodule "scipion-em-powerfit"]
+	path = scipion-em-powerfit
+	url = https://github.com/scipion-em/scipion-em-powerfit
+[submodule "scipion-em-atsas"]
+	path = scipion-em-atsas
+	url = https://github.com/scipion-em/scipion-em-atsas
+[submodule "scipion-em-resmap"]
+	path = scipion-em-resmap
+	url = https://github.com/scipion-em/scipion-em-resmap
+[submodule "scipion-em-ccp4"]
+	path = scipion-em-ccp4
+	url = https://github.com/scipion-em/scipion-em-ccp4
+[submodule "scipion-em-phenix"]
+	path = scipion-em-phenix
+	url = https://github.com/scipion-em/scipion-em-phenix
