@@ -10,3 +10,6 @@ Run `git submodule add https://github.com/scipion-em/scipion-em-repo`
 3. Delete the relevant section from _.git/config_.
 4. Run `git rm --cached path_to_submodule` (no trailing slash).
 5. Run `rm -rf .git/modules/path_to_submodule` (no trailing slash).
+
+## To update all submodules:
+`git submodule update --recursive --remote`
