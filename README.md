@@ -13,3 +13,6 @@ Run `git submodule add https://github.com/scipion-em/scipion-em-repo`
 
 ## To update all submodules:
 `git submodule update --recursive --remote`
+
+## To clone this repo:
+`git clone --recurse-submodules -j8 https://github.com/azazellochg/scipion-em-plugins.git`
