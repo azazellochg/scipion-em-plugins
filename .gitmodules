@@ -73,3 +73,15 @@
 [submodule "scipion-em-phenix"]
 	path = scipion-em-phenix
 	url = https://github.com/scipion-em/scipion-em-phenix
+[submodule "scipion-em-sphire"]
+	path = scipion-em-sphire
+	url = https://github.com/scipion-em/scipion-em-sphire
+[submodule "scipion-em-esrf"]
+	path = scipion-em-esrf
+	url = https://github.com/scipion-em/scipion-em-esrf
+[submodule "scipion-em-ispyb"]
+	path = scipion-em-ispyb
+	url = https://github.com/scipion-em/scipion-em-ispyb
+[submodule "scipion-em-empiar"]
+	path = scipion-em-empiar
+	url = https://github.com/scipion-em/scipion-em-empiar
