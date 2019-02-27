@@ -61,9 +61,6 @@
 [submodule "scipion-em-powerfit"]
 	path = scipion-em-powerfit
 	url = https://github.com/scipion-em/scipion-em-powerfit
-[submodule "scipion-em-atsas"]
-	path = scipion-em-atsas
-	url = https://github.com/scipion-em/scipion-em-atsas
 [submodule "scipion-em-resmap"]
 	path = scipion-em-resmap
 	url = https://github.com/scipion-em/scipion-em-resmap
@@ -76,12 +73,6 @@
 [submodule "scipion-em-sphire"]
 	path = scipion-em-sphire
 	url = https://github.com/scipion-em/scipion-em-sphire
-[submodule "scipion-em-esrf"]
-	path = scipion-em-esrf
-	url = https://github.com/scipion-em/scipion-em-esrf
-[submodule "scipion-em-ispyb"]
-	path = scipion-em-ispyb
-	url = https://github.com/scipion-em/scipion-em-ispyb
 [submodule "scipion-em-empiar"]
 	path = scipion-em-empiar
 	url = https://github.com/scipion-em/scipion-em-empiar
