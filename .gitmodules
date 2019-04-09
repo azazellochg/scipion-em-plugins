@@ -31,24 +31,12 @@
 [submodule "scipion-em-simple"]
 	path = scipion-em-simple
 	url = https://github.com/scipion-em/scipion-em-simple
-[submodule "scipion-em-emxlib"]
-	path = scipion-em-emxlib
-	url = https://github.com/scipion-em/scipion-em-emxlib
-[submodule "scipion-em-bamfordlab"]
-	path = scipion-em-bamfordlab
-	url = https://github.com/scipion-em/scipion-em-bamfordlab
-[submodule "scipion-em-bsoft"]
-	path = scipion-em-bsoft
-	url = https://github.com/scipion-em/scipion-em-bsoft
 [submodule "scipion-em-chimera"]
 	path = scipion-em-chimera
 	url = https://github.com/scipion-em/scipion-em-chimera
 [submodule "scipion-em-loscale"]
 	path = scipion-em-locscale
 	url = https://github.com/scipion-em/scipion-em-locscale
-[submodule "scipion-em-appion"]
-	path = scipion-em-appion
-	url = https://github.com/scipion-em/scipion-em-appion
 [submodule "scipion-em-localrec"]
 	path = scipion-em-localrec
 	url = https://github.com/scipion-em/scipion-em-localrec.git
@@ -58,27 +46,15 @@
 [submodule "scipion-em-locscale"]
 	path = scipion-em-locscale
 	url = https://github.com/scipion-em/scipion-em-locscale
-[submodule "scipion-em-powerfit"]
-	path = scipion-em-powerfit
-	url = https://github.com/scipion-em/scipion-em-powerfit
 [submodule "scipion-em-resmap"]
 	path = scipion-em-resmap
 	url = https://github.com/scipion-em/scipion-em-resmap
-[submodule "scipion-em-ccp4"]
-	path = scipion-em-ccp4
-	url = https://github.com/scipion-em/scipion-em-ccp4
-[submodule "scipion-em-phenix"]
-	path = scipion-em-phenix
-	url = https://github.com/scipion-em/scipion-em-phenix
 [submodule "scipion-em-sphire"]
 	path = scipion-em-sphire
 	url = https://github.com/scipion-em/scipion-em-sphire
 [submodule "scipion-em-empiar"]
 	path = scipion-em-empiar
 	url = https://github.com/scipion-em/scipion-em-empiar
-[submodule "scipion-em-atomstructutils"]
-	path = scipion-em-atomstructutils
-	url = https://github.com/scipion-em/scipion-em-atomstructutils
 [submodule "scipion-em-topaz"]
 	path = scipion-em-topaz
 	url = https://github.com/scipion-em/scipion-em-topaz
