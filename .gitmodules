@@ -16,9 +16,6 @@
 [submodule "scipion-em-gctf"]
 	path = scipion-em-gctf
 	url = https://github.com/scipion-em/scipion-em-gctf
-[submodule "scipion-em-grigoriefflab"]
-	path = scipion-em-grigoriefflab
-	url = https://github.com/scipion-em/scipion-em-grigoriefflab
 [submodule "scipion-em-imagic"]
 	path = scipion-em-imagic
 	url = https://github.com/scipion-em/scipion-em-imagic
