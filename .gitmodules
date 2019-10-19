@@ -52,3 +52,6 @@
 [submodule "scipion-em-topaz"]
 	path = scipion-em-topaz
 	url = https://github.com/scipion-em/scipion-em-topaz
+[submodule "scipion-em-ctffind"]
+	path = scipion-em-ctffind
+	url = https://github.com/scipion-em/scipion-em-ctffind
