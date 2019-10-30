@@ -52,3 +52,6 @@
 [submodule "scipion-em-tomo"]
 	path = scipion-em-tomo
 	url = https://github.com/scipion-em/scipion-em-tomo
+[submodule "scipion-em-cistem"]
+	path = scipion-em-cistem
+	url = https://github.com/scipion-em/scipion-em-cistem
