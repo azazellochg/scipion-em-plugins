@@ -1,6 +1,9 @@
 [submodule "scipion-em-chimera"]
 	path = scipion-em-chimera
 	url = https://github.com/scipion-em/scipion-em-chimera
+[submodule "scipion-em-cistem"]
+	path = scipion-em-cistem
+	url = https://github.com/scipion-em/scipion-em-cistem
 [submodule "scipion-em-cryoef"]
 	path = scipion-em-cryoef
 	url = https://github.com/scipion-em/scipion-em-cryoef
@@ -37,9 +40,6 @@
 [submodule "scipion-em-resmap"]
 	path = scipion-em-resmap
 	url = https://github.com/scipion-em/scipion-em-resmap
-[submodule "scipion-em-simple"]
-	path = scipion-em-simple
-	url = https://github.com/scipion-em/scipion-em-simple
 [submodule "scipion-em-sphire"]
 	path = scipion-em-sphire
 	url = https://github.com/scipion-em/scipion-em-sphire
@@ -49,9 +49,6 @@
 [submodule "scipion-em-topaz"]
 	path = scipion-em-topaz
 	url = https://github.com/scipion-em/scipion-em-topaz
-[submodule "scipion-em-ctffind"]
-	path = scipion-em-ctffind
-	url = https://github.com/scipion-em/scipion-em-ctffind
 [submodule "scipion-em-tomo"]
 	path = scipion-em-tomo
 	url = https://github.com/scipion-em/scipion-em-tomo
