@@ -52,3 +52,6 @@
 [submodule "scipion-em-tomo"]
 	path = scipion-em-tomo
 	url = https://github.com/scipion-em/scipion-em-tomo
+[submodule "scipion-em-cryosparc2"]
+	path = scipion-em-cryosparc2
+	url = https://github.com/scipion-em/scipion-em-cryosparc2
