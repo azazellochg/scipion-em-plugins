@@ -55,3 +55,6 @@
 [submodule "scipion-em-cryosparc2"]
 	path = scipion-em-cryosparc2
 	url = https://github.com/scipion-em/scipion-em-cryosparc2
+[submodule "scipion-em-atlas"]
+	path = scipion-em-atlas
+	url = https://github.com/scipion-em/scipion-em-atlas
