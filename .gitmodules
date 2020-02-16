@@ -31,9 +31,6 @@
 [submodule "scipion-em-motioncorr"]
 	path = scipion-em-motioncorr
 	url = https://github.com/scipion-em/scipion-em-motioncorr
-[submodule "scipion-em-fsc3d"]
-	path = scipion-em-fsc3d
-	url = https://github.com/scipion-em/scipion-em-fsc3d
 [submodule "scipion-em-relion"]
 	path = scipion-em-relion
 	url = https://github.com/scipion-em/scipion-em-relion
@@ -58,3 +55,6 @@
 [submodule "scipion-em-atlas"]
 	path = scipion-em-atlas
 	url = https://github.com/scipion-em/scipion-em-atlas
+[submodule "scipion-em-fsc3d"]
+	path = scipion-em-fsc3d
+	url = https://github.com/scipion-em/scipion-em-fsc3d
