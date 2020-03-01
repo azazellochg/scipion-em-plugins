@@ -58,3 +58,6 @@
 [submodule "scipion-em-fsc3d"]
 	path = scipion-em-fsc3d
 	url = https://github.com/scipion-em/scipion-em-fsc3d
+[submodule "scipion-em-sidesplitter"]
+	path = scipion-em-sidesplitter
+	url = https://github.com/scipion-em/scipion-em-sidesplitter
