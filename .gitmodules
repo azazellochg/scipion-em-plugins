@@ -61,3 +61,6 @@
 [submodule "scipion-em-sidesplitter"]
 	path = scipion-em-sidesplitter
 	url = https://github.com/scipion-em/scipion-em-sidesplitter
+[submodule "scipion-em-epu"]
+	path = scipion-em-epu
+	url = https://github.com/scipion-em/scipion-em-epu
