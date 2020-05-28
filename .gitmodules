@@ -64,3 +64,6 @@
 [submodule "scipion-em-epu"]
 	path = scipion-em-epu
 	url = https://github.com/scipion-em/scipion-em-epu
+[submodule "scipion-em-cryodrgn"]
+	path = scipion-em-cryodrgn
+	url = https://github.com/scipion-em/scipion-em-cryodrgn
