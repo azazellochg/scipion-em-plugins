@@ -106,3 +106,15 @@
 [submodule "scipion-em-cryoassess"]
 	path = scipion-em-cryoassess
 	url = https://github.com/scipion-em/scipion-em-cryoassess
+[submodule "scipion-em-emantomo"]
+	path = scipion-em-emantomo
+	url = https://github.com/scipion-em/scipion-em-emantomo
+[submodule "scipion-em-reliontomo"]
+	path = scipion-em-reliontomo
+	url = https://github.com/scipion-em/scipion-em-reliontomo
+[submodule "scipion-em-xmipptomo"]
+	path = scipion-em-xmipptomo
+	url = https://github.com/I2PC/scipion-em-xmipptomo
+[submodule "scipion-em-aretomo"]
+	path = scipion-em-aretomo
+	url = https://azazellochg:2f77d0704e0ad4e0e238d2c1f4a9652c4aae581f@github.com/scipion-em/scipion-em-aretomo
