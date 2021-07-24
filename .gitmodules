@@ -117,4 +117,4 @@
 	url = https://github.com/I2PC/scipion-em-xmipptomo
 [submodule "scipion-em-aretomo"]
 	path = scipion-em-aretomo
-	url = https://azazellochg:2f77d0704e0ad4e0e238d2c1f4a9652c4aae581f@github.com/scipion-em/scipion-em-aretomo
+	url = https://github.com/scipion-em/scipion-em-aretomo
