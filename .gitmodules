@@ -10,9 +10,6 @@
 [submodule "scipion-em-eman2"]
 	path = scipion-em-eman2
 	url = https://github.com/scipion-em/scipion-em-eman2
-[submodule "scipion-em-empiar"]
-	path = scipion-em-empiar
-	url = https://github.com/scipion-em/scipion-em-empiar
 [submodule "scipion-em-gautomatch"]
 	path = scipion-em-gautomatch
 	url = https://github.com/scipion-em/scipion-em-gautomatch
