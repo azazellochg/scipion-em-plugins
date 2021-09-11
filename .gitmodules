@@ -76,9 +76,6 @@
 [submodule "scipion-em-facilities"]
 	path = scipion-em-facilities
 	url = https://github.com/scipion-em/scipion-em-facilities.git
-[submodule "scipion-em-powerfit"]
-	path = scipion-em-powerfit
-	url = https://github.com/scipion-em/scipion-em-powerfit.git
 [submodule "scipion-em-phenix"]
 	path = scipion-em-phenix
 	url = https://github.com/scipion-em/scipion-em-phenix.git
