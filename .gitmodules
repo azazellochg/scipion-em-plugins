@@ -112,3 +112,9 @@
 [submodule "scipion-em-aretomo"]
 	path = scipion-em-aretomo
 	url = https://github.com/scipion-em/scipion-em-aretomo
+[submodule "scipion-em-tomo3d"]
+	path = scipion-em-tomo3d
+	url = https://github.com/scipion-em/scipion-em-tomo3d
+[submodule "scipion-em-tomoviz"]
+	path = scipion-em-tomoviz
+	url = https://github.com/scipion-em/scipion-em-tomoviz
