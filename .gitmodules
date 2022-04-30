@@ -118,3 +118,6 @@
 [submodule "scipion-em-tomoviz"]
 	path = scipion-em-tomoviz
 	url = https://github.com/scipion-em/scipion-em-tomoviz
+[submodule "scipion-em-goctf"]
+	path = scipion-em-goctf
+	url = https://github.com/scipion-em/scipion-em-goctf
