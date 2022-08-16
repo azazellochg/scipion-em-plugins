@@ -123,7 +123,7 @@
 	url = https://github.com/scipion-em/scipion-em-goctf
 [submodule "scipion-em-susantomo"]
 	path = scipion-em-susantomo
-	url = https://azazellochg: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@github.com/scipion-em/scipion-em-susantomo
+	url = https://github.com/scipion-em/scipion-em-susantomo
 [submodule "scipion-em-tomotwin"]
 	path = scipion-em-tomotwin
-	url = https://azazellochg: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@github.com/scipion-em/scipion-em-tomotwin
+	url = https://github.com/scipion-em/scipion-em-tomotwin
