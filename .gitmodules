@@ -127,3 +127,9 @@
 [submodule "scipion-em-tomotwin"]
 	path = scipion-em-tomotwin
 	url = https://github.com/scipion-em/scipion-em-tomotwin
+[submodule "scipion-em-dynamo"]
+	path = scipion-em-dynamo
+	url = https://github.com/scipion-em/scipion-em-dynamo
+[submodule "scipion-em-warp"]
+	path = scipion-em-warp
+	url = https://github.com/scipion-em/scipion-em-warp
