@@ -70,9 +70,6 @@
 [submodule "scipion-em-imod"]
 	path = scipion-em-imod
 	url = https://github.com/scipion-em/scipion-em-imod.git
-[submodule "scipion-em-emxlib"]
-	path = scipion-em-emxlib
-	url = https://github.com/scipion-em/scipion-em-emxlib.git
 [submodule "scipion-em-facilities"]
 	path = scipion-em-facilities
 	url = https://github.com/scipion-em/scipion-em-facilities.git
@@ -82,18 +79,9 @@
 [submodule "scipion-em-ccp4"]
 	path = scipion-em-ccp4
 	url = https://github.com/scipion-em/scipion-em-ccp4.git
-[submodule "scipion-em-appion"]
-	path = scipion-em-appion
-	url = https://github.com/scipion-em/scipion-em-appion.git
 [submodule "scipion-em-atsas"]
 	path = scipion-em-atsas
 	url = https://github.com/scipion-em/scipion-em-atsas.git
-[submodule "scipion-em-bamfordlab"]
-	path = scipion-em-bamfordlab
-	url = https://github.com/scipion-em/scipion-em-bamfordlab.git
-[submodule "scipion-em-bsoft"]
-	path = scipion-em-bsoft
-	url = https://github.com/scipion-em/scipion-em-bsoft.git
 [submodule "scipion-em-atomstructutils"]
 	path = scipion-em-atomstructutils
 	url = https://github.com/scipion-em/scipion-em-atomstructutils.git
