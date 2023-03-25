@@ -121,3 +121,9 @@
 [submodule "scipion-em-warp"]
 	path = scipion-em-warp
 	url = https://github.com/scipion-em/scipion-em-warp
+[submodule "scipion-em-cryocare"]
+	path = scipion-em-cryocare
+	url = https://github.com/scipion-em/scipion-em-cryocare
+[submodule "scipion-em-pwperformance"]
+	path = scipion-em-pwperformance
+	url = https://github.com/scipion-em/scipion-em-pwperformance
