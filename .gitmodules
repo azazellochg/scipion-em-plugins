@@ -49,18 +49,12 @@
 [submodule "scipion-em-cryosparc2"]
 	path = scipion-em-cryosparc2
 	url = https://github.com/scipion-em/scipion-em-cryosparc2
-[submodule "scipion-em-atlas"]
-	path = scipion-em-atlas
-	url = https://github.com/scipion-em/scipion-em-atlas
 [submodule "scipion-em-fsc3d"]
 	path = scipion-em-fsc3d
 	url = https://github.com/scipion-em/scipion-em-fsc3d
 [submodule "scipion-em-sidesplitter"]
 	path = scipion-em-sidesplitter
 	url = https://github.com/scipion-em/scipion-em-sidesplitter
-[submodule "scipion-em-epu"]
-	path = scipion-em-epu
-	url = https://github.com/scipion-em/scipion-em-epu
 [submodule "scipion-em-cryodrgn"]
 	path = scipion-em-cryodrgn
 	url = https://github.com/scipion-em/scipion-em-cryodrgn
@@ -130,9 +124,6 @@
 [submodule "scipion-em-emready"]
 	path = scipion-em-emready
 	url = https://github.com/scipion-em/scipion-em-emready
-[submodule "scipion-em-tomodrgn"]
-	path = scipion-em-tomodrgn
-	url = https://github.com/scipion-em/scipion-em-tomodrgn
 [submodule "scipion-em-modelangelo"]
 	path = scipion-em-modelangelo
 	url = https://github.com/scipion-em/scipion-em-modelangelo
